@@ -1,4 +1,4 @@
-# hanie.portfolio
+# Hanie's Portfolio 
 Data Visualization Portfolio
 
 # [Project 1: COVID-19 impact on digital learning](https://www.kaggle.com/competitions/learnplatform-covid19-impact-on-digital-learning/overview/description)
