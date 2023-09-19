@@ -1,4 +1,3 @@
-theme: minima
 # hanie.portfolio
 Data Visualization Portfolio
 
