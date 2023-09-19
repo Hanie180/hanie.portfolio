@@ -4,9 +4,3 @@ plugins:
 
 title: [Hanie's Portfolio]
 description: [Below are the projects that I have done while studying for my Master's degree of Business Analytics at Macquarie University]
-
-<!DOCTYPE html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    <meta charset="UTF-8">
-
